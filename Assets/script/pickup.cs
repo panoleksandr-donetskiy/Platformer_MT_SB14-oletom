@@ -16,7 +16,7 @@ public class pickup : MonoBehaviour
 
     void Update()
     {
-        jeweltext.text = ToString(countjewl);
+        jeweltext.text = countjewl.ToString();
     }
 
     void OnTriggerEnter2D(Collider2D obj)
