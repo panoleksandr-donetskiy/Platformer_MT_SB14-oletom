@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - jewl
+  - enemy
   layers:
   - Default
   - TransparentFX

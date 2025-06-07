@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class pickup : MonoBehaviour
 {
     [SerializeField] private int countjewl = 0;
-    Text jeweltext;
+    public Text jeweltext;
 
     void Start()
     {
