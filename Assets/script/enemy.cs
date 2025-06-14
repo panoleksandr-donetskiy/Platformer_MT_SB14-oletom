@@ -5,11 +5,10 @@ using UnityEngine;
 public class enemy : MonoBehaviour
 {
     public GameObject player;
-    public int health;
 
     void Start()
     {
-        health = player.GetComponent<platermove>().health;
+        
     }
 
     // Update is called once per frame
@@ -22,7 +21,7 @@ public class enemy : MonoBehaviour
     {
         if (obj.gameObject.CompareTag("Player"))
         {
-            health--;
+            player.GetComponent<platermove>().playerhealth--;
         }
     }
 

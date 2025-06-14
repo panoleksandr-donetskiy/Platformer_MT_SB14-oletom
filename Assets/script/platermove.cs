@@ -8,7 +8,7 @@ public class platermove : MonoBehaviour
 {
     public Rigidbody2D rb2d;
     public float move, movespeed;
-    public int health;
+    public int playerhealth;
     public Text hptext;
 
     void Start()
@@ -18,8 +18,8 @@ public class platermove : MonoBehaviour
 
     void Update()
     {
-        hptext.text = health.ToString();
-        if (health <= 0)
+        hptext.text = playerhealth.ToString();
+        if (playerhealth <= 0)
         {
             SceneManager.LoadScene(0);
         }

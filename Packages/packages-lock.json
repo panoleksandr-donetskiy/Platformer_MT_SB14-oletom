@@ -183,6 +183,22 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.multiplayer-hlapi": {
+      "version": "1.0.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "nuget.mono-cecil": "0.1.5-preview"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.mono-cecil": {
+      "version": "1.10.1",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.purchasing": {
       "version": "2.0.6",
       "depth": 0,
@@ -256,6 +272,14 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
+    },
+    "nuget.mono-cecil": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.nuget.mono-cecil": "1.10.1"
+      }
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
