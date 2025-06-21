@@ -230,7 +230,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e68da5e98ca5e01a0800000000000000
-      internalID: 369198011006983671
+      internalID: 1203923979991183308
       vertices: []
       indices: 
       edges: []
@@ -251,7 +251,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb011323d01b96560800000000000000
-      internalID: 4348175191221956261
+      internalID: -7775236204238527905
       vertices: []
       indices: 
       edges: []
@@ -332,12 +332,12 @@ TextureImporter:
     nameFileIdTable:
       Slime_Spiked_Jump_FX_4: 5469817097825885410
       Slime_Spiked_Jump_FX_9: 2314559302037213156
-      Slime_Spiked_Jump_FX_6: 369198011006983671
+      Slime_Spiked_Jump_FX_6: 1203923979991183308
       Slime_Spiked_Jump_FX_5: 8715150257315831493
       Slime_Spiked_Jump_FX_8: -1093409250314809533
       Slime_Spiked_Jump_FX_3: 7524902037825835571
       Slime_Spiked_Jump_FX_10: 5584578538990826843
-      Slime_Spiked_Jump_FX_7: 4348175191221956261
+      Slime_Spiked_Jump_FX_7: -7775236204238527905
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

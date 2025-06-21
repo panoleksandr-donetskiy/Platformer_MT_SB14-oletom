@@ -266,7 +266,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 556cfd0f04b09e8f0800000000000000
-      internalID: 6492882189772883053
+      internalID: 1108501705470125879
       vertices: []
       indices: 
       edges: []
@@ -287,7 +287,7 @@ TextureImporter:
       Crab_AttackC_FX_7: 153815934913602662
       Crab_AttackC_FX_6: -5533424917427768575
       Crab_AttackC_FX_5: -2799948276872834883
-      Crab_AttackC_FX_10: 6492882189772883053
+      Crab_AttackC_FX_10: 1108501705470125879
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
